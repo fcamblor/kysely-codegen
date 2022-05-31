@@ -1,0 +1,1 @@
+{"version":3,"file":"dialect-manager.js","sourceRoot":"","sources":["../src/dialect-manager.ts"],"names":[],"mappings":";;;AACA,kDAA6D;AAC7D,8CAAyD;AAIzD,MAAa,qBAAqB;IAChC,UAAU,CAAC,IAAwB;QACjC,QAAQ,IAAI,EAAE;YACZ,KAAK,UAAU;gBACb,OAAO,IAAI,iCAAsB,EAAE,CAAC;YACtC;gBACE,OAAO,IAAI,6BAAoB,EAAE,CAAC;SACrC;IACH,CAAC;CACF;AATD,sDASC"}
